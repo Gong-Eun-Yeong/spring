@@ -1,0 +1,9 @@
+package com.example.domain;
+
+public class ProductVO {
+	private int pcode;
+	private String pname;
+	private int price;
+	private String image;
+
+}
